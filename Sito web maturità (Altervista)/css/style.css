@@ -1,0 +1,32 @@
+#header{
+  background-color: #a6a6a6;
+}
+
+#navbar{
+  background-color: #111111;
+}
+
+#content{
+  background-color: #f8f8f8;
+}
+
+#photos{
+  background-color: #e6e6e6;
+}
+
+a, figcaption{
+  font-size: 20px;
+}
+
+p.introduction{
+  font-size: 20px;
+}
+
+p.content{
+  font-size: 19px;
+}
+
+#toggle1, #toggle2, #toggle3, #toggle4, #toggle5, #toggle6{
+  display: none;
+}
+
